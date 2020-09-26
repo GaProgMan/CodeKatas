@@ -1,5 +1,6 @@
 # CodeKatas
-A repo for some of the code katas that I run thought
+
+A repo for some of the code katas that I run though on my [witch live streams](https://twitch.tv/gaprogman)
 
 ## Support This Project
 
